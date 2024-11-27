@@ -10,7 +10,7 @@
       <li><button>Find Talent</button></li>
       <li><button>FAQ</button></li>
       <li>
-        <form action="login.php">
+        <form action="/login">
           <button type="submit" class="log-in">Log in</button>
         </form>
       </li>
